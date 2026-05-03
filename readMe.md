@@ -7,16 +7,20 @@ The sales data shows a fluctuating trend between 2010 and 2012. Sales were relat
 ## Visual Evidence
 
 ### Representative Performance Table
+#### This table shows individual sales transaction including the quantity sold and amount. Formulas are displayed to validate calculations.
 ![Representative Performance](images/rep_performance_1.png)
 
-### Additional Performance View
-![Performance Detail](images/rep_performance_2.png)
-
 ### Yearly Summary Table
+#### This table aggregates total revenue per year, clearly showing the trend in sales.
 ![Yearly Summary](images/yearly_summary.png)
 
 ### Quantity Sold Per Year
+#### This table shows the quantity sold per year for each sales representative
 ![Quantity per Year](images/quantity_per_year.png)
+
+### Additional Performance View
+#### This table includes calculations such as total revenue per sales representative and transaction count using functions like SUMIF and COUNTIF
+![Performance Detail](images/rep_performance_2.png)
 
 ## Business Recommendations
 #### Efficiency Analysis
