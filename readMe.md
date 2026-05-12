@@ -2,7 +2,8 @@
 
 ## Executive Summary
 
-The sales data shows a fluctuating trend between 2010 and 2012. Sales were relatively strong at the beginning of the period, particularly in 2010 and early 2011, but they did not maintain a consistent upward trajectory. Instead, performance varied across the years, with 2012 showing weaker and less stable sales activity compared to earlier periods. Overall, the business exhibits an erratic sales pattern rather than steady growth or decline.
+The sales data shows a gradual decline in overall performance between 2010 and 2012. Both the quantity of goods sold and total sales revenue generally decreased across the years for most sales representatives, indicating weakening sales activity over time.
+However, Tola stood out as an exception, showing a steady increase in both sales quantity and revenue throughout the period. Overall, the business appears to be experiencing declining performance, despite Tola’s consistent improvement in both sales quantity and revenue over the years.
 
 ## Visual Evidence
 
