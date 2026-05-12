@@ -10,8 +10,7 @@ However, Tola stood out as an exception, showing a steady increase in both sales
 
 ### Representative Performance Table
 #### This table shows individual sales transaction including the quantity sold and amount. Formulas are displayed to validate calculations.
-![Representative Performance](images/Rep_performance_1.png)
-![Representative Performance](images/Rep_performance_2.png)
+![Representative Performance](images/rep_performance_1.png)
 
 ### Yearly Summary Table
 #### This table aggregates total revenue per year, clearly showing the trend in sales.
