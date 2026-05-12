@@ -3,17 +3,19 @@
 ## Executive Summary
 
 The sales data shows a gradual decline in overall performance between 2010 and 2012. Both the quantity of goods sold and total sales revenue generally decreased across the years for most sales representatives, indicating weakening sales activity over time.
+
 However, Tola stood out as an exception, showing a steady increase in both sales quantity and revenue throughout the period. Overall, the business appears to be experiencing declining performance, despite Tola’s consistent improvement in both sales quantity and revenue over the years.
 
 ## Visual Evidence
 
 ### Representative Performance Table
 #### This table shows individual sales transaction including the quantity sold and amount. Formulas are displayed to validate calculations.
-![Representative Performance](images/rep_performance_1.png)
+![Representative Performance](images/Rep_performance_1.png)
+![Representative Performance](images/Rep_performance_2.png)
 
 ### Yearly Summary Table
 #### This table aggregates total revenue per year, clearly showing the trend in sales.
-![Yearly Summary](images/yearly_summary.png)
+![Yearly Summary](images/Yearly_performance.png)
 
 ### Quantity Sold Per Year
 #### This table shows the quantity sold per year for each sales representative
